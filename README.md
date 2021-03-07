@@ -4,16 +4,23 @@ Hi there, call me Yej 👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjc7189@gmail.com)](mailto:yjc7189@gmail.com)
 
 #### 🌞 I am:
-- a fast learner because I'm a good listener
-- an energetic data enthusiast
-- an insightful analyst
+- a fast learner because I'm a good listener.
+- an energetic data enthusiast.
+- an insightful analyst.
 
 #### 🖋️ My experiences:
 - Fast Campus Data Science School 15th 2020.09~2021.02
 - ELCA Korea CCC Intern 2020.02~2020.07
 
-#### My skills:
-- 
+#### ⚙️ My skills:
+- Fluent in English speaking, reading, and writing.
+- People skills such as communication skills, flexibility, teamwork, and management skilss.
+- Data-driven and analytical thinking for problem solving.
+- Usage of Python libraries for gathering, preprocessing, visualizing, and analyzing data.
+- Usage of RDBMS(MySQL), and NO-SQL(MongoDB) for accessing and modifying data from the database.
+- Experience in building on AWS web services.
+- Knowledge in Machine Learning and Deep Learning for NLP and object detection using Tensorflow.
+
 
 <!--
 **yeji0701/yeji0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
